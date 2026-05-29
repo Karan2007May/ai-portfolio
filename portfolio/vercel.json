@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/projects.data.json",
+      "source": "/projects.json",
       "headers": [
         {
           "key": "Content-Type",
