@@ -3,7 +3,7 @@ import path from "path";
 
 export default function handler(req, res) {
   try {
-    const filePath = path.join(process.cwd(), "data", "projects.json");
+    const filePath = path.join(process.cwd(), "public", "projects.json");
 
     const json = fs.readFileSync(filePath, "utf-8");
 
