@@ -15,7 +15,7 @@ async function loadProjects() {
   try {
 
     const response =
-      await fetch("/api/projects.js");
+      await fetch("/api/projects");
 
     if (!response.ok) {
       throw new Error(
