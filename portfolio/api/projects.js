@@ -1,5 +1,16 @@
-import projects from "../data/projects.json" assert { type: "json" };
+import fs from "fs";
+import path from "path";
 
 export default function handler(req, res) {
-  res.status(200).json(projects);
+  try {
+    const filePath = path.join(process.cwd(), "api", "projects.json");
+    const json = fs.readFileSync(filePath, "utf-8");
+
+    res.status(200).json(JSON.parse(json));
+  } catch (err) {
+    res.status(500).json({
+      error: "Failed to load projects.json",
+      details: err.message,
+    });
+  }
 }
