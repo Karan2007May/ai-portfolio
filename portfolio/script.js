@@ -15,7 +15,7 @@ async function loadProjects() {
   try {
 
     const response =
-      await fetch("/projects.data.json");
+      await fetch("/api/projects.js");
 
     if (!response.ok) {
       throw new Error(
