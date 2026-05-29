@@ -9,3 +9,8 @@
     }
   ]
 }
+
+{
+  "cleanUrls": true,
+  "trailingSlash": false
+}
