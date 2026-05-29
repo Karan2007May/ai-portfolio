@@ -564,7 +564,12 @@
         "Homework AI",
         "Student platform"
       ],
-      "searchText": "education ai assistant personalized learning voice image text educational platform"
+      "searchText": "education ai assistant personalized learning voice image text educational platform",
+      "links": {
+        "Website": "https://oridos.ai/", 
+        "Play Store": "https://play.google.com/store/apps/details?id=com.oridosai.studentapp&hl=en_US",
+        "Apple Store": "https://apps.apple.com/us/app/oridosai/id6473518259"
+      }
     },
 
     {
