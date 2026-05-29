@@ -1,13 +1,11 @@
 {
-  "headers": [
+  "routes": [
     {
-      "source": "/projects.json",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "application/json"
-        }
-      ]
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
