@@ -394,7 +394,11 @@
         "Labour management",
         "Billing automation"
       ],
-      "searchText": "construction management labour attendance billing automation quality checklists field operations"
+      "searchText": "construction management labour attendance billing automation quality checklists field operations",
+      "links": {
+      "Website": "https://colabtools.com/",
+      "Google Play": "https://play.google.com/store/search?q=colabtools&c=apps&hl=en"
+      }
     },
 
     {
