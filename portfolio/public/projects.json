@@ -527,7 +527,11 @@
         "Gamification",
         "Culture analytics"
       ],
-      "searchText": "employee engagement culture analytics recognition rewards gamification workplace platform"
+      "searchText": "employee engagement culture analytics recognition rewards gamification workplace platform",
+      "links": {
+         "Website": "https://giveriver2.web.app/",
+         "Play Store": "https://play.google.com/store/apps/details?id=com.giveriver.app&hl=en"
+      }
     },
 
     {
