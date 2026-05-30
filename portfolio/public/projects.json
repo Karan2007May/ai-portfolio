@@ -72,6 +72,7 @@
        "links": {
         "Figma": "https://www.figma.com/design/v9rr2UQhGmFFSyRMmOoGoi/MAK-Fashion?node-id=38-1186&t=PL5WHhHeBKngomj1-1",
         "Website": "https://www.makinfashion.com/"
+       }
     },
 
     {
@@ -92,7 +93,10 @@
         "Dashboard UI",
         "Digital workflows"
       ],
-      "searchText": "business platform dashboard customer interaction workflow management service operations"
+      "searchText": "business platform dashboard customer interaction workflow management service operations",
+      "links": {
+        "Figma": "https://www.figma.com/design/jeFIGLFiKoiQIhMHUsYyDY/Dazlik?node-id=665-2693&t=aRt5Ub0Bn1LjFYYc-1"
+      }
     },
 
     {
