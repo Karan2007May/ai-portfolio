@@ -68,7 +68,11 @@
         "Shopping UX",
         "Apparel marketplace"
       ],
-      "searchText": "fashion ecommerce apparel luxury shopping ethnic wear online store ui ux"
+      "searchText": "fashion ecommerce apparel luxury shopping ethnic wear online store ui ux",
+       "links": {
+        "Figma": "https://www.figma.com/design/v9rr2UQhGmFFSyRMmOoGoi/MAK-Fashion?node-id=38-1186&t=PL5WHhHeBKngomj1-1",
+        "Website": "https://www.makinfashion.com/"
+      }
     },
 
     {
