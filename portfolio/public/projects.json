@@ -300,7 +300,11 @@
         "Investment tracking",
         "Financial intelligence"
       ],
-      "searchText": "fintech portfolio analytics investment tracking ai finance reporting wealth management"
+      "searchText": "fintech portfolio analytics investment tracking ai finance reporting wealth management",
+      "links": {
+        "Website": "https://www.iquantsgraph.com/",
+        "App Link": "https://play.google.com/store/search?q=iquantsgraph&c=apps&hl=en"
+      }
     },
 
     {
