@@ -898,24 +898,29 @@
       "searchText": "construction workforce attendance payroll approvals labour tracking automation operations"
     },
     {
-      "title": "Creator Collaboration Platform",
+      "title": "Finance Invoice & Expense Automation Workflow",
       "categories": [
-        "Mobile Apps",
-        "AI & Automation"
+        "AI & Automation",
+        "Finance"
       ],
-      "description": "Networking and collaboration ecosystem for creators, influencers, freelancers, and digital professionals.",
+      "description": "Automates invoice creation, expense tracking, and payment reminders across financial systems. It syncs transaction data, generates invoices, and ensures timely follow-ups for pending payments. The workflow reduces manual accounting effort and improves financial visibility.",
       "technologies": [
-        "Flutter",
-        "Laravel",
-        "MySQL"
+        "Make.com",
+        "QuickBooks",
+        "Xero",
+        "Stripe",
+        "Google Drive",
+        "Gmail",
+        "Webhooks"
       ],
       "keywords": [
-        "Creator economy",
-        "Influencer platform",
-        "Collaboration network",
-        "Freelancer ecosystem"
+        "Finance automation",
+        "Invoice workflow",
+        "Expense tracking system",
+        "Accounting automation",
+        "Payment reminder system"
       ],
-      "searchText": "creator collaboration influencer networking freelancer ecosystem social platform"
+      "searchText": "finance automation invoice workflow expense tracking accounting automation payment reminders quickbooks xero stripe bookkeeping accounts receivable financial operations make.com workflow automation"
     }
   ]
 }
